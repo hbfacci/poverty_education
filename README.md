@@ -7,6 +7,8 @@ A cross-national regression study investigating whether poverty headcount ratio 
 Poverty is widely cited as a major barrier to educational attainment, but most existing research either focuses on individual/household-level data, looks at enrollment rather than completion, or doesn't systematically control for national income. This project asks a narrower, cross-national question: how well does a country's poverty headcount ratio predict its secondary school completion rate, once GDP per capita is accounted for?
  
 This project uses World Bank World Development Indicators data spanning 2002–2022 across 63 countries to build and compare several predictive models, with Ordinary Least Squares regression as the primary method.
+
+Full research paper is available [here](https://github.com/hbfacci/poverty_education/blob/main/Predicting_Secondary_Educational_Attainment_from_Global_Poverty_Rates.pdf) or in the main repository.
  
 ## Data
 - **Source:** World Bank Group, World Development Indicators
