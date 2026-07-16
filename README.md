@@ -8,7 +8,7 @@ Poverty is widely cited as a major barrier to educational attainment, but most e
  
 This project uses World Bank World Development Indicators data spanning 2002–2022 across 63 countries to build and compare several predictive models, with Ordinary Least Squares regression as the primary method.
 
-Full research paper is available [here](https://github.com/hbfacci/poverty_education/blob/main/Predicting_Secondary_Educational_Attainment_from_Global_Poverty_Rates.pdf) or in the main repository.
+Full research paper is available [here](https://github.com/hbfacci/poverty_education/blob/main/Predicting_Secondary_Educational_Attainment_from_Global_Poverty_Rates.pdf) or in the main branch.
  
 ## Data
 - **Source:** World Bank Group, World Development Indicators
